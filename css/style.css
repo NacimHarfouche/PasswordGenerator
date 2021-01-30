@@ -37,6 +37,9 @@ header {
 	text-align: center;
 	color: #C9D1C8;
 }
+header section {
+	display: flex;
+}
 
 /* main */
 main {
@@ -75,6 +78,12 @@ button {
 }
 #linkBack {
 	margin-bottom: 1rem;
+}
+
+#languageLink img {
+	width: 1.8rem;
+	height: auto;
+	margin-bottom: 0.2rem;
 }
 
 /* footer */
